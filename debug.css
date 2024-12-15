@@ -1,0 +1,23 @@
+* {
+    outline: 2px solid green; 
+}
+
+body {
+    background-color: rgba(0, 255, 0, 0.1); 
+}
+
+header, footer {
+    outline: 2px solid red; 
+}
+
+section {
+    outline: 2px dashed blue; 
+}
+
+div {
+    outline: 2px solid orange;
+}
+
+img {
+    outline: 2px solid purple; 
+}
